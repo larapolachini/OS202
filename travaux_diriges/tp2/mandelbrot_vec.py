@@ -8,7 +8,6 @@ import matplotlib.cm
 
 
 class MandelbrotSet:
-
     def __init__(self, max_iterations : int, escape_radius : float = 2. ):
         self.max_iterations = max_iterations
         self.escape_radius  = escape_radius
