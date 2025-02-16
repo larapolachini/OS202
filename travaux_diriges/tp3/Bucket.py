@@ -39,5 +39,3 @@ print("Tableau trié",arr)
 bucket_separate(arr)
 print("Tableau généré",arr)
 
-
-# mpiexec -n 4 python3 Bucket.py
